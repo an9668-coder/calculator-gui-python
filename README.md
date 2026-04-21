@@ -14,3 +14,4 @@ A graphical calculator built using Python Tkinter.
 
 ## How to Run
 Run main.py file
+upddate 1
